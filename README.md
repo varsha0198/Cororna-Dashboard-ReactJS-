@@ -1,3 +1,4 @@
+![corona dashboard](https://user-images.githubusercontent.com/85819910/139221508-19870039-d41b-481e-b6e6-15b1d35017de.jpeg)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
